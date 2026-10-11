@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "mkdocs-run-code",
+  "versions": [
+    {
+      "commit": "9a39e6b22ca2199516cc2eee047189934f8d7a88",
+      "parsed_at": "2026-10-11T08:21:02.674468+00:00",
+      "filetree": "filetree/9a39e6b22ca2199516cc2eee047189934f8d7a88.nq.gz",
+      "blobs": [
+        "blob/8e44b942e27391441d152a1f15dc76745391c722.nq.gz",
+        "blob/e720f31a24d750e67fdf74bef32af621e97512f3.nq.gz",
+        "blob/178135c2b27855a27d4109630473696c869f5ed7.nq.gz",
+        "blob/20abfac3247e7ae52683b0c22824b09aa8fd3c87.nq.gz",
+        "blob/6c895cec2b659803558c6de2efd670514eebe91b.nq.gz",
+        "blob/dd8f35c980595c09868cae02a6d6250eb76aed6e.nq.gz",
+        "blob/41a755f8e95f10816603a889e7d21417a3475f74.nq.gz",
+        "blob/d76c9648f80751d683c3671ba90011bc708d618e.nq.gz",
+        "blob/587484dfa80958570fc1a515b71ccd717793ab34.nq.gz",
+        "blob/dcc7c085964337920c3db560afb1da44141dedca.nq.gz",
+        "blob/a06f484938bd512a1f93632aa1e44cf8c9754751.nq.gz",
+        "blob/bd99fb36d4caa6a36d9048dd2ed807d814a26d1c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
